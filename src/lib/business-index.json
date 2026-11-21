@@ -1,0 +1,268 @@
+[
+ {
+  "id": "casa-rustica",
+  "name": "Casa Rustica",
+  "kind": "Restaurante",
+  "lat": 45.8775251,
+  "lon": 22.9039991,
+  "source": "https://www.openstreetmap.org/node/676819217",
+  "street": "Aleea Transilvaniei",
+  "address": "Aleea Transilvaniei, bl. 7, sc. 2, ap. 23, parter, Deva",
+  "hours": "Lu–Jo 10:00–22:00 · Vi 10:00–23:00 · Sâ 12:00–23:00 · Du 12:00–22:00",
+  "phone": "0727 021 555",
+  "web": "https://casarusticadeva.ro/",
+  "description": "Bistro și pizzerie de familie, cu pizza, paste și preparate la grătar, în apropiere de Ulpia.",
+  "image": "/images/business/casa-rustica.webp",
+  "credit": "Casa Rustica · fotografie de prezentare a operatorului",
+  "photoSource": "https://casarusticadeva.ro/assets/casa-rustica-deva.webp"
+ },
+ {
+  "id": "pizzeria-al-forno",
+  "name": "Pizzeria Al Forno",
+  "kind": "Restaurante",
+  "lat": 45.879644,
+  "lon": 22.9017944,
+  "source": "https://www.openstreetmap.org/node/6432195085",
+  "street": "Bulevardul 1 Decembrie 1918",
+  "address": "Bulevardul 1 Decembrie 1918, Deva",
+  "hours": "Mo-Su 10:00-23:00",
+  "phone": "0734880033",
+  "web": ""
+ },
+ {
+  "id": "casina",
+  "name": "Casina",
+  "kind": "Restaurante",
+  "lat": 45.8812015,
+  "lon": 22.8995336,
+  "source": "https://www.openstreetmap.org/node/649756704",
+  "street": "Piața Unirii",
+  "address": "Piața Unirii, nr. 9, Deva",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "selim-lebanese-food",
+  "name": "Selim Lebanese Food",
+  "kind": "Restaurante",
+  "lat": 45.8785936,
+  "lon": 22.9016543,
+  "source": "https://www.openstreetmap.org/node/12854121737",
+  "street": "Piața Victoriei",
+  "address": "Piața Victoriei, Deva",
+  "hours": "Mo-Su 11:00-21:00",
+  "phone": "0771034552",
+  "web": ""
+ },
+ {
+  "id": "caffe-boheme",
+  "name": "Caffe Boheme",
+  "kind": "Cafenele",
+  "lat": 45.8839236,
+  "lon": 22.8997456,
+  "source": "https://www.openstreetmap.org/node/537587150",
+  "street": "",
+  "address": "",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "caffe-apostolescu",
+  "name": "Caffe Apostolescu",
+  "kind": "Cafenele",
+  "lat": 45.869844,
+  "lon": 22.9166033,
+  "source": "https://www.openstreetmap.org/node/6053546220",
+  "street": "",
+  "address": "",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "caramel-cafe",
+  "name": "Caramel Cafe",
+  "kind": "Cafenele",
+  "lat": 45.8829221,
+  "lon": 22.9041952,
+  "source": "https://www.openstreetmap.org/node/667925241",
+  "street": "",
+  "address": "",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "hotel-wien",
+  "name": "Hotel Wien",
+  "kind": "Hoteluri",
+  "lat": 45.8774241,
+  "lon": 22.9152915,
+  "source": "https://www.openstreetmap.org/node/957123367",
+  "street": "Calea Zarandului",
+  "address": "Calea Zarandului, nr. 55, Deva",
+  "hours": "24/7",
+  "phone": "0747 055 519",
+  "web": "https://www.hotelwien.ro/",
+  "description": "Hotel pe Calea Zarandului, cu decor inspirat din Viena, prezentat pe site-ul operatorului."
+ },
+ {
+  "id": "villa-brussels",
+  "name": "Villa Brussels",
+  "kind": "Pensiuni",
+  "lat": 45.8750576,
+  "lon": 22.9027162,
+  "source": "https://www.openstreetmap.org/node/1110248518",
+  "street": "Strada Mihai Eminescu",
+  "address": "Strada Mihai Eminescu, nr. 56, Deva",
+  "hours": "24/7",
+  "phone": "+40 354 105 656",
+  "web": "https://villa-brussels.ro/",
+  "image": "/images/business/villa-brussels.webp",
+  "credit": "Villa Brussels · fotografie de prezentare a operatorului",
+  "photoSource": "https://villa-brussels.ro/wp-content/uploads/2018/02/16-1.jpg"
+ },
+ {
+  "id": "pensiunea-president",
+  "name": "Pensiunea President",
+  "kind": "Pensiuni",
+  "lat": 45.8700411,
+  "lon": 22.9153942,
+  "source": "https://www.openstreetmap.org/way/88363969",
+  "street": "Bulevardul Nicolae Bălcescu",
+  "address": "Bulevardul Nicolae Bălcescu, nr. 18, Deva",
+  "hours": "",
+  "phone": "",
+  "web": "https://www.president-deva.ro"
+ },
+ {
+  "id": "cristall-beauty-center",
+  "name": "CristAll Beauty Center",
+  "kind": "Saloane",
+  "lat": 45.8823443,
+  "lon": 22.9036176,
+  "source": "https://www.openstreetmap.org/node/2307928647",
+  "street": "Bulevardul Iuliu Maniu",
+  "address": "Bulevardul Iuliu Maniu, nr. 1, Deva",
+  "hours": "",
+  "phone": "0736 868 408",
+  "web": "https://www.cristall-beauty.ro/"
+ },
+ {
+  "id": "frizeria-dudy-stil",
+  "name": "Frizeria Dudy Stil",
+  "kind": "Saloane",
+  "lat": 45.8765509,
+  "lon": 22.907158,
+  "source": "https://www.openstreetmap.org/node/10228647403",
+  "street": "Bulevardul Decebal",
+  "address": "Bulevardul Decebal, nr. 24, Deva",
+  "hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+  "phone": "0771779524",
+  "web": "https://ro-ro.facebook.com/dudystil/"
+ },
+ {
+  "id": "piese-auto-rmc",
+  "name": "Piese Auto RMC",
+  "kind": "Service auto",
+  "lat": 45.8717337,
+  "lon": 22.9046893,
+  "source": "https://www.openstreetmap.org/node/1685955081",
+  "street": "Strada Mihai Eminescu",
+  "address": "Strada Mihai Eminescu, nr. 104A, Deva",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "dacia-service",
+  "name": "Dacia Service",
+  "kind": "Service auto",
+  "lat": 45.8610991,
+  "lon": 22.922297,
+  "source": "https://www.openstreetmap.org/node/1039462466",
+  "street": "",
+  "address": "",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "cargus-ship-go",
+  "name": "Cargus Ship & Go",
+  "kind": "Servicii",
+  "lat": 45.8613268,
+  "lon": 22.9242462,
+  "source": "https://www.openstreetmap.org/node/3704133541",
+  "street": "22 Decembrie",
+  "address": "22 Decembrie, nr. 265, Deva",
+  "hours": "Mo-Fr 09:00-13:00,13:30-17:00; Sa-Su off",
+  "phone": "+40 21-9282",
+  "web": "https://www.cargus.ro/"
+ },
+ {
+  "id": "oficiul-postal-vamal",
+  "name": "Oficiul Poștal Vamal",
+  "kind": "Servicii",
+  "lat": 45.8774092,
+  "lon": 22.91211,
+  "source": "https://www.openstreetmap.org/node/4466263191",
+  "street": "Aleea Păcii",
+  "address": "Aleea Păcii, nr. 4, Deva",
+  "hours": "",
+  "phone": "",
+  "web": ""
+ },
+ {
+  "id": "teora-deva", "name": "Librăria Teora", "kind": "Magazine", "lat": 45.8811886, "lon": 22.9010962,
+  "source": "https://www.openstreetmap.org/node/1023739648", "street": "", "address": "", "hours": "", "phone": "", "web": "",
+  "description": "Librărie înregistrată în OpenStreetMap sub numele Teora. Adresa poștală și funcționarea actuală nu sunt confirmate de fișa cartografică."
+ },
+ {
+  "id": "cofetaria-anca", "name": "Cofetăria Anca", "kind": "Magazine", "lat": 45.8837964, "lon": 22.9080341,
+  "source": "https://www.openstreetmap.org/node/674564981", "street": "Bulevardul Iuliu Maniu", "address": "Bulevardul Iuliu Maniu, nr. 29, Deva", "hours": "Lu–Du 08:00–19:00 (consemnat în OSM)", "phone": "+40 723 944 705", "web": "",
+  "description": "Cofetărie cartografiată pe bulevardul Iuliu Maniu. Pentru comenzi și programul zilei, confirmă direct la operator."
+ },
+ {
+  "id": "naturahei", "name": "NaturaHei", "kind": "Magazine", "lat": 45.8821681, "lon": 22.9010351,
+  "source": "https://www.openstreetmap.org/node/13830994701", "street": "Bulevardul 1 Decembrie 1918", "address": "Bulevardul 1 Decembrie 1918, nr. 14, Deva", "hours": "Lu–Sâ 09:00–19:00 · Du 12:00–18:00 (OSM)", "phone": "+40 725 616 100", "web": "https://naturahei.ro",
+  "description": "Magazin de produse alimentare de pe bulevardul 1 Decembrie 1918, înregistrat în categoria health_food în OpenStreetMap."
+ },
+ {
+  "id": "brutaria-delcor", "name": "Brutăria DELCOR", "kind": "Magazine", "lat": 45.8627229, "lon": 22.9074002,
+  "source": "https://www.openstreetmap.org/way/357014412", "street": "Strada Scărișoara", "address": "Strada Scărișoara, Deva · număr neconfirmat", "hours": "Lu–Vi 06:00–21:00 · Sâ–Du 06:00–14:00 (OSM)", "phone": "", "web": "",
+  "description": "Brutărie de pe strada Scărișoara. Poziția corespunde clădirii înregistrate în sursa cartografică, nu unei intrări verificate pe teren."
+ },
+ {
+  "id": "the-florist", "name": "The Florist", "kind": "Magazine", "lat": 45.877788, "lon": 22.9020652,
+  "source": "https://www.openstreetmap.org/node/676813912", "street": "", "address": "", "hours": "", "phone": "", "web": "",
+  "description": "Florărie consemnată în OpenStreetMap. Fișa-sursă nu oferă telefon sau program; existența marcajului nu garantează că magazinul este deschis."
+ },
+ {
+  "id": "decathlon-deva", "name": "Decathlon Deva", "kind": "Magazine", "lat": 45.8616749, "lon": 22.9297523,
+  "source": "https://www.openstreetmap.org/node/6579711229", "street": "Calea Zarandului", "address": "Calea Zarandului, nr. 87, Deva", "hours": "Lu–Du 10:00–22:00 (OSM)", "phone": "+40 371 472 840", "web": "https://www.decathlon.ro",
+  "description": "Magazin de articole sportive pe Calea Zarandului. Consultă operatorul pentru gama de produse și stocuri."
+ },
+ {
+  "id": "altex-zarandului", "name": "Altex · Calea Zarandului", "kind": "Magazine", "lat": 45.8740315, "lon": 22.919226,
+  "source": "https://www.openstreetmap.org/node/9606225415", "street": "Calea Zarandului", "address": "Calea Zarandului, nr. 65, Deva", "hours": "Lu–Du 09:00–21:00 (OSM)", "phone": "0354 410 456", "web": "https://altex.ro/",
+  "description": "Magazin de electronice identificat în OpenStreetMap la nr. 65. Programul publicat în atlas este cel consemnat în sursă, nu un statut în timp real."
+ },
+ {
+  "id": "senic-deva", "name": "Senic Deva", "kind": "Magazine", "lat": 45.8773542, "lon": 22.9142449,
+  "source": "https://www.openstreetmap.org/way/226930106", "street": "Calea Zarandului", "address": "Calea Zarandului, nr. 108, Deva", "hours": "Lu–Vi 08:00–21:00 · Sâ 08:00–18:00 · Du 08:00–16:00 (OSM)", "phone": "0724 031 376", "web": "https://senic.ro/magazin-deva/",
+  "description": "Magazin alimentar cartografiat pe Calea Zarandului. Pagina locală a operatorului este disponibilă în sursele fișei."
+ },
+ {
+  "id": "dedeman-deva", "name": "Dedeman Deva", "kind": "Magazine", "lat": 45.8673021, "lon": 22.9233554,
+  "source": "https://www.openstreetmap.org/way/1317534686", "street": "Strada Doctor Victor Șuiagă", "address": "Strada Doctor Victor Șuiagă, nr. 1, Deva", "hours": "Lu–Vi 08:00–21:00 · Sâ 08:00–20:00 · Du 09:00–18:00 (OSM)", "phone": "+40 234 525 525", "web": "https://www.dedeman.ro/",
+  "description": "Magazin de bricolaj și amenajări. Marcajul provine din geometria clădirii magazinului, nu din coordonate aproximative ale străzii."
+ },
+ {
+  "id": "auchan-deva", "name": "Auchan Deva", "kind": "Magazine", "lat": 45.8623424, "lon": 22.9292487,
+  "source": "https://www.openstreetmap.org/node/3608534808", "street": "Calea Zarandului", "address": "Calea Zarandului, nr. 87, Deva", "hours": "Lu–Du 08:00–22:00 (OSM)", "phone": "", "web": "https://www.auchan.ro/magazin/d6c489c6-5370-11ed-83ab-1689cc2884b3",
+  "description": "Magazin alimentar din zona comercială a Căii Zarandului. Reperul magazinului este distinct de clădirea centrului comercial."
+ }
+]
