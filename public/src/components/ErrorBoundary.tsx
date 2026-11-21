@@ -1,0 +1,3 @@
+import {Component} from 'react'
+import type {ReactNode} from 'react'
+export class ErrorBoundary extends Component<{children:ReactNode},{failed:boolean}>{state={failed:false};static getDerivedStateFromError(){return {failed:true}};render(){if(this.state.failed)return <main className="city-page"><div className="setup-panel"><span className="city-eyebrow">ATLAS DEVA</span><h1>Secțiunea nu s-a putut încărca.</h1><p>Reîncarcă pagina. Locurile salvate pe acest dispozitiv nu sunt șterse.</p><button className="city-btn" onClick={()=>window.location.reload()}>Reîncarcă</button><a className="editorial-link" href="/">Înapoi la ghid</a></div></main>;return this.props.children}}
